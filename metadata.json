@@ -1,0 +1,6 @@
+{
+  "name": "Peak Pixel Studio",
+  "description": "Premium web design and development agency portfolio with dynamic project management, interactive client cases, and a powerful admin control room.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
